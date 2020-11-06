@@ -4,7 +4,13 @@
 Hey There!
 <p>This is <a href="https://www.linkedin.com/in/shubhamasati/" target="_blank">Shubham Asati</a>.</p>
 <p>I am Software Engineer, having total of 2+ years of experience, skilled in Big Data and Backend Technlogies. I have worked on Hadoop, Spark, Hive, NodeJS, Spring, AWS etc. Strong understanding of Fundamentals of Computer Science, C++, Java, J2EE, Python, SQL, JavaScript etc.</p>
+<<<<<<< HEAD
 <p>Solid knowledge of Data Structures, Algorithms and System Design (Object Oriented Design, High Level Design). Here is my <a href="https://www.scaler.com/academy/profile/1c6f12924509/" target="_blank">Coding Profile</a>.</p>
 <p>I have created some projects, you can checkout <a href="https://github.com/ShubhamAsati" target="_blank">here</a>.</p>
 Feel free to send me an email at <a href="mailto:shbham.asti128@gmail.com" target="_blank">shbham.asti128@gmail.com</a>.
+=======
+<p>Solid knowledge of Data Structures, Algorithms and System Design (Object Oriented Design, High Level Design). Here is my <a href="https://www.scaler.com/academy/profile/1c6f12924509/">Coding Profile</a>.</p>
+<p>I have created some projects, you can checkout <a href="https://github.com/ShubhamAsati">here</a>.</p>
+Feel free to send me an email at <a href="mailto:shbham.asti128@gmail.com">shbham.asti128@gmail.com</a>.
+>>>>>>> 177ef14187e5cdd03f34da4ef7a63e46d7ba74d3
 <p>Cheers!</p>
