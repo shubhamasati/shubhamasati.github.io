@@ -2,9 +2,11 @@
 <span id="a">system@ShubhamAsati/about</span>:<span id="b">~</span><span id="c">$</span> cat shubhamasati.txt<br/>
 
 Hey There!
-<p>This is <a href="https://www.linkedin.com/in/shubhamasati/" target="_blank">Shubham Asati</a>.</p>
-<p>I am Software Engineer, having total of 2+ years of experience, skilled in Big Data and Backend Technlogies. I have worked on Hadoop, Spark, Hive, NodeJS, Spring, AWS etc. Strong understanding of Fundamentals of Computer Science, C++, Java, J2EE, Python, SQL, JavaScript etc.</p>
-<p>Solid knowledge of Data Structures, Algorithms and System Design (Object Oriented Design, High Level Design). Here is my <a href="https://www.scaler.com/academy/profile/1c6f12924509/" target="_blank">Coding Profile</a>.</p>
-<p>I have created some projects, you can checkout <a href="https://github.com/ShubhamAsati" target="_blank">here</a>.</p>
-Feel free to send me an email at <a href="mailto:shbham.asti128@gmail.com" target="_blank">shbham.asti128@gmail.com</a>.
+<p>Hi There! My name is <a href="https://www.linkedin.com/in/shubhamasati/" target="_blank">Shubham Asati</a>.</p>
+
+<p>I am a Backend Developer, currently transforming Customer Service for both the Agents and Customers, at <a href="https://www.netomi.com" target="_blank">Netomi, India</a> by enabeling the AI & Machine Learning. Previously worked with Aakash Edutech, and Infosy Ltd.</p>
+<p>I have experience working on Micro-services Architecture, Distributed Systems, Java, Spring Boot, MySQL, Kafka, Elasticsearch, Redis, Cassandra, Hadoop etc.</p>
+<p>You can checkout my work <a href="https://github.com/ShubhamAsati" target="_blank">here</a>.</p>
+<p>To reach out mail at <a href="mailto:shbham.asti128@gmail.com" target="_blank">shbham.asti128@gmail.com</a> or call at +91 9074809192.</p>
+<p>Connect at <a href="https://www.linkedin.com/in/shubhamasati/" target="_blank">LinkedIn</a></p>
 <p>Cheers!</p>
