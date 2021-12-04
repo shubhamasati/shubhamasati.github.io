@@ -8,5 +8,5 @@ Hey There!
 <p>I have experience working on Micro-services Architecture, Distributed Systems, Java, Spring Boot, MySQL, Kafka, Elasticsearch, Redis, Cassandra, Hadoop etc.</p>
 <p>Do checkout my work <a href="https://github.com/ShubhamAsati" target="_blank">here</a>.</p>
 To reach out mail at <a href="mailto:shbham.asti128@gmail.com" target="_blank">shbham.asti128@gmail.com</a> or call at <a target="_blank">+91 9074809192</a>.
-Connect at <a href="https://www.linkedin.com/in/shubhamasati/" target="_blank">LinkedIn</a></p>
+Connect at <a href="https://www.linkedin.com/in/shubhamasati/" target="_blank">LinkedIn</a>
 Cheers!
