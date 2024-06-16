@@ -4,9 +4,13 @@
 Hey There!
 <p>My name is <a href="https://www.linkedin.com/in/shubhamasati/" target="_blank">Shubham Asati</a>.</p>
 
-I am a Lead Software Engineer, currently leading projects at <a href="https://www.pinelabs.com/" target="_blank">PineLabs Ltd.</a> in Noida, India. My role involves driving the development and deployment of robust backend solutions, ensuring system scalability and performance. Previously, I have worked with renowned organizations such as PayPal, Netomi, and Infosys, where I honed my skills in Micro-services Architecture, Distributed Systems, Java, SpringBoot, GoLang, AWS, and various databases like MySQL, MongoDB, and Cassandra.
+I am a Lead Software Engineer, currently leading projects at <a href="https://www.pinelabs.com/" target="_blank">PineLabs</a> in Noida, India. My role involves driving the development and deployment of robust backend solutions, ensuring system scalability and performance. 
 
-Throughout my career, I have successfully led teams, mentored colleagues, and contributed to significant projects that leverage AI, Machine Learning, and cloud technologies. My passion lies in solving complex problems and delivering high-quality, scalable software solutions.
+Previously, I have worked with renowned organizations such as PayPal, Netomi, and Infosys, where I honed my skills in Micro-services Architecture, Distributed Systems, Java, SpringBoot, GoLang, AWS, and various databases like MySQL, MongoDB, and Cassandra.
+
+Throughout my career, I have successfully led teams, mentored colleagues, and contributed to significant projects that leverage AI, Machine Learning, and cloud technologies. 
+
+My passion lies in solving complex problems and delivering high-quality, scalable software solutions.
 
 <p>Feel free to explore my projects and see what I've been up to <a href="https://github.com/ShubhamAsati" target="_blank">here</a>.</p>
 Feel free to drop a line at <a href="mailto:shbham.asti128@gmail.com" target="_blank">shbham.asti128@gmail.com</a> or ring me up at <a target="_blank">+91 9074809192</a>. 
