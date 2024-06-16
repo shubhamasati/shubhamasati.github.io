@@ -3,9 +3,13 @@
 
 Hey There!
 <p>My name is <a href="https://www.linkedin.com/in/shubhamasati/" target="_blank">Shubham Asati</a>.</p>
-I am a Backend Developer, currently transforming Customer Service for both the Agents and Customers, at <a href="https://www.netomi.com" target="_blank">Netomi, India</a> by enabeling the AI & Machine Learning. Previously worked with Aakash Edutech, and Infosys Ltd.
-<p>I have experience working on Micro-services Architecture, Distributed Systems, Java, Spring Boot, MySQL, Kafka, Elasticsearch, Redis, Cassandra, Hadoop etc.</p>
-<p>Do checkout my work <a href="https://github.com/ShubhamAsati" target="_blank">here</a>.</p>
-To reach out mail at <a href="mailto:shbham.asti128@gmail.com" target="_blank">shbham.asti128@gmail.com</a> or call at <a target="_blank">+91 9074809192</a>.
-Connect at <a href="https://www.linkedin.com/in/shubhamasati/" target="_blank">LinkedIn</a>
+
+I am a Lead Software Engineer, currently leading projects at <a href="https://www.pinelabs.com/" target="_blank">PineLabs Ltd.</a> in Noida, India. My role involves driving the development and deployment of robust backend solutions, ensuring system scalability and performance. Previously, I have worked with renowned organizations such as PayPal, Netomi, and Infosys, where I honed my skills in Micro-services Architecture, Distributed Systems, Java, SpringBoot, GoLang, AWS, and various databases like MySQL, MongoDB, and Cassandra.
+
+Throughout my career, I have successfully led teams, mentored colleagues, and contributed to significant projects that leverage AI, Machine Learning, and cloud technologies. My passion lies in solving complex problems and delivering high-quality, scalable software solutions.
+
+<p>Feel free to explore my projects and see what I've been up to <a href="https://github.com/ShubhamAsati" target="_blank">here</a>.</p>
+Feel free to drop a line at <a href="mailto:shbham.asti128@gmail.com" target="_blank">shbham.asti128@gmail.com</a> or ring me up at <a target="_blank">+91 9074809192</a>. 
+Let's link up on <a href="https://www.linkedin.com/in/shubhamasati" target="_blank">LinkedIn</a> too! 
+
 <p>Cheers!</p>
